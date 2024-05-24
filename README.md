@@ -1,7 +1,9 @@
 # Challenge-MIKTI-Team
 ## Flowchart dan ERD E-Commerce
 
-*Di sini saya akan menjelaskan tentang Flowchart dan ERD yang telah kami buat sebelumnya. Flowchart yang kami buat membantu dalam memvisualisasikan secara sistematis langkah-langkah dalam proses pembuatan website e-commerce, dari sisi penjual yang menambahkan produk hingga pengalaman pelanggan dalam mencari, memilih, dan membeli produk. Sementara itu, ERD kami memberikan pandangan yang jelas tentang struktur database yang diperlukan untuk mendukung fungsionalitas tersebut. Dengan memahami hubungan antara entitas dalam sistem, kami dapat merencanakan dan mengimplementasikan basis data yang efisien dan skalabel untuk proyek kami.*
+*Flowchart yang kami buat membantu dalam memvisualisasikan secara sistematis langkah-langkah dalam proses pembuatan website e-commerce, dari sisi penjual yang menambahkan produk hingga pengalaman pelanggan dalam mencari, memilih, dan membeli produk. Sementara itu, ERD kami memberikan pandangan yang jelas tentang struktur database yang diperlukan untuk mendukung fungsionalitas tersebut.*
+
+*Di sini kami akan menjelaskan tentang Flowchart dan ERD yang telah kami buat sebelumnya.*
 
 ### Flowchart
 
